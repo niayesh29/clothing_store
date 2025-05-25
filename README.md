@@ -1,5 +1,5 @@
 # clothing_store
-فروشگاه م<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
